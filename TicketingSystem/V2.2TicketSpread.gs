@@ -404,6 +404,7 @@ function darkenResolvedTickets(e) {
         // removing the View from TicketName
        var ticketName = ticketLink.getValue();
        ticketName = ticketName.substring(4,ticketName.length)
+       // Sends email to client
         MailApp.sendEmail(clientEmail,
                          "HA Marketing Help Desk" + ticketName,
                           client +",\n\n" +
@@ -413,7 +414,17 @@ function darkenResolvedTickets(e) {
                          "Replying to this email will go to: " + assignedEmployee + "\n\n" +
                          "-H&A Marketing Team",
                          {name: "H&A Help Desk", replyTo: assignedEmail});
-                 
+      // sends email to employee   
+        MailApp.sendEmail(assignedEmail,
+                      "HA Marketing Help Desk" + ticketName,
+                      "You resolved a ticket via the H&A Help Desk ticketing system\n"+
+                      "Client: " + client + " (" + clientEmail + ")\n"+
+                      "Issue Description: " + issue + "\n"+
+                      "Ticket Request Information: " + replacement + "\n" + 
+                      "You can view this at: " + sheetLink +"\n"+
+                      "Replying to this email will go to: " + client + "\n\n" +
+                      "-H&A Marketing Team",
+                      {name:"H&A Help Desk", replyTo: clientEmail});  
 
   } // End if "Status" column
 } /// End darkenResolvedTickets()
