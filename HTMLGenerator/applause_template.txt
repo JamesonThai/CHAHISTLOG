@@ -1,0 +1,621 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <table id="main-table" cellpadding="0" cellspacing="0" frame="box" width="650" align="center" style="padding-left: 0.15%; padding-right: 0.3%; padding-top: 0.3%; background-color: rgb(255, 255, 255);">
+            <tbody>
+
+                <!-- This is part of the top information (ex the Header) -->
+
+                <tr>
+                    <td>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <!-- This part is the Small Hammer Theater Center Logo on the left -->
+                                    <td width="45%">
+                                        <a href="http://www.sjsu.edu/hammertheatre/" title="Hammer Theatre Page" target="_blank">
+                                            <img style="padding-left: 5px;" width="75%" src="https://multimedia.getresponse.com/getresponse-Siog/photos/581053502.png?_ga=2.135233464.887069144.1501529007-1047026546.1498158113" alt="Hammer Theater Logo">
+                                        </a>
+                                    </td>
+                                    <!-- This part is the Month Year part of  Newsletter on the right at the top -->
+                                    <td width="55%" valign="bottom" style="text-align:right">
+                                        <span  style="color:#2857B5; font-family: Helvetica; font-size: 25px;">
+                                            <span style="text-decoration: none;"><div id="header-date">March 2018</div>NEWSLETTER</span>
+                                        </span>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+
+                <!-- This part is the Logo -->
+                <tr>
+                    <td>
+                    <a href="http://www.sjsu.edu/hammertheatre/" title="Hammer Theatre Page" target="_blank">
+                        <img style="padding-left: 4px;" width="98.7%" src="https://multimedia.getresponse.com/getresponse-Siog/photos/610814602.png?_ga=2.27589492.959521055.1509568970-1137881523.1505944160" alt="Applause Newsletter Logo">
+                    </a>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <!-- Left hand Side -->
+                                    <td id="left-col" width="60%" valign="top">
+                                        <div id="hammer-events-table">
+                                            <table>
+                                                <tbody>
+
+                                                <!-- Main Articles Start -->
+                                                <!-- Image for First Event -->
+                                                    <tr>
+                                                        <td style="padding:0;">
+                                                            <a class="img-frame-anchor" href="https://youtu.be/1RIicJZIiVY" title="National Geographic Series-- Steve Winter page" target="_blank" style="color: inherit; text-decoration: none; font-size: 20px; font-family: Helvetica">
+                                                                <div class="img-frame"
+                                                                     style=
+                                                                     "
+                                                                     background: #DEDFE1;
+                                                                     /* For browsers that do not support gradients */
+                                                                     background: -webkit-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Safari 5.1 to 6.0 */
+                                                                     background: -o-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Opera 11.1 to 12.0 */
+                                                                     background: -moz-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Firefox 3.6 to 15 */
+                                                                     background: linear-gradient(#DEDFE1, white, white);
+                                                                     /* Standard syntax (must be last) */
+                                                                     /* set padding to simulate border */
+                                                                     padding-top: 3%;
+                                                                     padding-right: 4%;
+                                                                     padding-bottom: 0px; padding-left: 4%;
+                                                                     margin: 0;">
+                                                                    <p class="img-frame-title" style="text-decoration:none; padding:0; margin-bottom:4px; margin-top: 10px">Hammer Events</p>
+<img class="article-image" width="100%" src="https://mlsvc01-prod.s3.amazonaws.com/eedc6441701/41a26225-01d9-42f5-9a6e-fa00b6a76535.png?ver=1520368595000" alt="National Geographic Series-- Trail of Big Cats" style="bottom: 0; width: 100%;">
+                                                                </div>
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <!-- Event Title -->
+                                                    <tr>
+                                                        <td>
+                                                            <span class="title" style="font-family: Helvetica; font-weight: bold; font-size: 16px; margin-left: 4%;">
+                                                                Steve Winter: On the Trail of Big Cats 
+                                                            </span>
+                                                            <span class="title" style="font-family: Helvetica; font-weight: bold; font-size: 16px; margin-left: 4%;">
+                                                                National Geographic Live
+                                                            </span>
+                                                            <!-- Event Date -->
+                                                            <span style="font-family: Helvetica; font-size: 14px;">
+                                                                <div class="schedule" style="padding-left: 4%;">
+                                                                    March 14 (Wed) @ 7pm
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                        <tr>
+                                                        </tr>
+                                                        <td>
+                                                            <hr style="margin-left: 4%;">
+                                                        </td>
+                                                    </tr>
+                                                    <!-- Event Description -->
+                                                    <tr>
+                                                        <td>
+                                                            <p style="margin: 10px 0px; margin-left: 4%;">
+                                                            <span class="article-text" style="font-family: Helvetica; font-size: 14px;">
+                                                              Join award-winning National Geographic photographer Steve Winter for a thrilling journey into the world of big cats. From trekking high in India’s Himalaya in search of rare snow leopards and stalking the elusive jaguar through Latin American jungles to chronicling the nocturnal activities of the “American lion” or cougar, this determined explorer ventures far and wide to come face-to-face with his subjects.
+                                                              <a class="article-anchor" style="font-family: Helvetica; font-size: 14px;" href="http://events.ha.sjsu.edu/hammertheatre/events/trail-big-cats/" target="_blank" title="National Geographic Trail of Big Cats Event Page">Read more.</a>
+                                                            </span>
+                                                            </p>
+                                                            <!-- Event Buy Ticket -->
+                                                            <div style="margin-bottom: 25px; display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px; margin-left: 4%;">
+                                                                <a id="buy-ticket-button" href="https://web.ovationtix.com/trs/pe/10222595" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ticket Link For National Geographic Series - Trail of Big Cats">Buy tickets</a>
+                                                            </div>
+                                                            <!-- Event Buy promo -->
+                                                            <div style="margin-bottom: 25px; display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px; margin-left: 30%;">
+                                                                <a id="buy-ticket-button" href="https://web.ovationtix.com/trs/store/34750/packages" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ticket Link For National Geographic Series ">Buy Series tickets</a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+
+
+                                                    <!-- Second event image -->
+                                                    <tr>
+                                                        <td style="padding:0;">
+                                                            <a class="img-frame-anchor" href="https://youtu.be/HFDlRUwR2Ig" title="National Geographic Event Page" target="_blank" style="color: inherit; text-decoration: none; font-size: 20px; font-family: Helvetica">
+                                                                <div class="img-frame"
+                                                                     style=
+                                                                     "
+                                                                     background: #DEDFE1;
+                                                                     /* For browsers that do not support gradients */
+                                                                     background: -webkit-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Safari 5.1 to 6.0 */
+                                                                     background: -o-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Opera 11.1 to 12.0 */
+                                                                     background: -moz-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Firefox 3.6 to 15 */
+                                                                     background: linear-gradient(#DEDFE1, white, white);
+                                                                     /* Standard syntax (must be last) */
+                                                                     /* set padding to simulate border */
+                                                                     padding-top: 3%;
+                                                                     padding-right: 4%;
+                                                                     padding-bottom: 0px;
+                                                                     padding-left: 4%;
+                                                                     margin: 0;
+                                                                     ">
+                                                                    <p class="img-frame-title" style="text-decoration:none; padding:0; margin-bottom:4px; margin-top: 10px"></p>
+<img class="article-image" width="100%" src="https://mlsvc01-prod.s3.amazonaws.com/eedc6441701/10785213-5488-4d0f-9d77-d07d6eeaf75f.png?ver=1520368597000" alt="National Geographic Live series Brian Skerry Image" style="bottom: 0; width: 100%;"> 
+                                                                </div>
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <!-- Second Event Title -->
+                                                    <tr>
+                                                        <td>
+                                                            <span class="title" style="font-family: Helvetica; font-weight: bold; font-size: 16px; margin-left: 4%;">
+                                                                Brian Skerry: Ocean Soul 
+                                                            </span>
+                                                            <span class="title" style="font-family: Helvetica; font-weight: bold; font-size: 16px; margin-left: 4%;">
+                                                                <br> National Geographic Live
+                                                            </span>
+                                                            <br>
+                                                            <span  style="font-family: Helvetica; font-size: 14px;">
+                                                                <div class="schedule" style="padding-left: 4%;">
+                                                                    March 28 (Wed) @ 7pm 
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                        <tr>
+                                                        </tr>
+                                                        <td>
+                                                            <hr style="margin-left: 4%;">
+                                                        </td>
+                                                    </tr>
+                                                    <!-- second Event Description -->
+                                                    <tr>
+                                                        <td>
+                                                            <p  style="margin: 10px 0px; padding-left: 4%;">
+                                                            <span class="article-text" style="font-family: Helvetica; font-size: 14px;">
+                                                                Dive deep into the world’s oceans with one of National Geographic’s most seasoned photographers. Watch as Brian Skerry’s images illuminate the vast, hidden world beneath the waves.
+                                                            </span>
+                                                            <a class="article-anchor" style="font-family: Helvetica; font-size: 14px;" href="http://events.ha.sjsu.edu/hammertheatre/events/ocean-wild/" target="_blank" title="Nat Geo Ocean Soul Event Page">Read more.</a>
+                                                            </p>
+                                                            <div style="margin-bottom: 25px; display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px; margin-left: 4%;">
+                                                                <a id="buy-ticket-button" href="https://web.ovationtix.com/trs/pe/10222597" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ticket Link For National Geographic Series - Ocean Soul">Buy tickets</a>
+                                                            </div>
+                                                            <div style="margin-bottom: 25px; display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px; margin-left: 30%;">
+                                                                <a id="buy-ticket-button" href="https://web.ovationtix.com/trs/store/34750/packages" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ticket Link For National Geographic Series ">Buy Series tickets</a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+
+
+                                                    <!-- 3rd Event Image -->
+                                                    <tr>
+                                                        <td style="padding:0;">
+                                                            <a class="img-frame-anchor" href="https://youtu.be/9zcoiX2BzpU " title="Book of Moron Event Page" target="_blank" style="color: inherit; text-decoration: none; font-size: 20px; font-family: Helvetica">
+                                                                <div class="img-frame"
+                                                                     style=
+                                                                     "
+                                                                     background: #DEDFE1;
+                                                                     /* For browsers that do not support gradients */
+                                                                     background: -webkit-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Safari 5.1 to 6.0 */
+                                                                     background: -o-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Opera 11.1 to 12.0 */
+                                                                     background: -moz-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Firefox 3.6 to 15 */
+                                                                     background: linear-gradient(#DEDFE1, white, white);
+                                                                     /* Standard syntax (must be last) */
+                                                                     /* set padding to simulate border */
+                                                                     padding-top: 3%;
+                                                                     padding-right: 4%;
+                                                                     padding-bottom: 0px;
+                                                                     padding-left: 4%;
+                                                                     margin: 0;
+                                                                     ">
+                                                                    <p class="img-frame-title" style="text-decoration:none; padding:0; margin-bottom:4px; margin-top: 10px"></p>
+<img class="article-image" width="100%" src="https://mlsvc01-prod.s3.amazonaws.com/eedc6441701/b6a1665e-106b-4d83-834b-3e9136407cc0.png?ver=1520375765000" alt="Book of Moron Image Video" style="bottom: 0; width: 100%;">
+                                                                </div>
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                    <!-- 3rd Event Title -->
+                                                    <tr>
+                                                        <td>
+                                                            <span class="title" style="font-family: Helvetica; font-weight: bold; font-size: 16px; padding-left: 4%;">
+                                                                Robert Dubac's The Book of Moron
+                                                            </span>
+                                                            <br>
+                                                            <span  style="font-family: Helvetica; font-size: 14px;">
+                                                                <div class="schedule" style="padding-left: 4%;">
+                                                                    Mar 29 - 31 (Thur-Sat) @ 8pm <br> Mar 31 (Sat) @ 4pm 
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                        <tr>
+                                                        </tr>
+                                                        <td>
+                                                            <hr style="margin-left: 4%;">
+                                                        </td>
+                                                    </tr>
+                                                    <!-- 3rd Event Description -->
+                                                    <tr>
+                                                        <td>
+                                                            <p  style="margin: 10px 0px; padding-left: 4%;">
+                                                            <span class="article-text" style="font-family: Helvetica; font-size: 14px;">
+                                                                <i> The Book of Moron</i> is a show that gives a singular face to a man’s warring subconscious. Through wit and well-timed delivery, Dubac provides audiences all over the country a hilarious and thought-provoking performance that questions current trends and the state of popular culture.  
+                                                            </span>
+                                                            <a class="article-anchor" style="font-family: Helvetica; font-size: 14px;" href="http://events.ha.sjsu.edu/hammertheatre/events/book-of-moron/" target="_blank" title="Book of Moron Event Page">Read more.</a>
+                                                            </p>
+                                                            <!-- 3rd Event buy tickets -->
+                                                            <div style="margin-bottom: 25px; display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px; margin-left: 4%;">
+                                                                <a id="buy-ticket-button" href="https://www.ticketmaster.com/book-of-moron-susan-and-phil-hammer-theater-san-jose-ca/venueartist/230008/2394326" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ticket Link For Book of Moron">Buy tickets</a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+
+
+
+                                                     <!-- 4th Event Image -->
+                                                    <tr>
+                                                        <td style="padding:0;">
+                                                                <div class="img-frame"
+                                                                     style=
+                                                                     "
+                                                                     background: #DEDFE1;
+                                                                     /* For browsers that do not support gradients */
+                                                                     background: -webkit-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Safari 5.1 to 6.0 */
+                                                                     background: -o-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Opera 11.1 to 12.0 */
+                                                                     background: -moz-linear-gradient(#DEDFE1, white, white);
+                                                                     /* For Firefox 3.6 to 15 */
+                                                                     background: linear-gradient(#DEDFE1, white, white);
+                                                                     /* Standard syntax (must be last) */
+                                                                     /* set padding to simulate border */
+                                                                     padding-top: 3%;
+                                                                     padding-right: 4%;
+                                                                     padding-bottom: 0px;
+                                                                     padding-left: 4%;
+                                                                     margin: 0;
+                                                                     ">
+                                                                    <p class="img-frame-title" style="text-decoration:none; padding:0; margin-bottom:4px; margin-top: 10px"></p>
+<img class="article-image" width="100%" src="http://events.ha.sjsu.edu/hammertheatre/wp-content/uploads/sites/2/2018/02/journeylive_660x340.jpg" alt="Journey Video Game Live Image Video" style="bottom: 0; width: 100%;">
+                                                                </div>
+                                                        </td>
+                                                    </tr>
+                                                    <!-- 4th Event Title -->
+                                                    <tr>
+                                                        <td>
+                                                            <span class="title" style="font-family: Helvetica; font-weight: bold; font-size: 16px; padding-left: 4%;">
+                                                                JOURNEY (The Video Game) LIVE
+                                                            </span>
+                                                            <br>
+                                                            <span  style="font-family: Helvetica; font-size: 14px;">
+                                                                <div class="schedule" style="padding-left: 4%;">
+                                                                    Aprl 13 (Fri) @ 7pm 
+                                                                </div>
+                                                            </span>
+                                                        </td>
+                                                        <tr>
+                                                        </tr>
+                                                        <td>
+                                                            <hr style="margin-left: 4%;">
+                                                        </td>
+                                                    </tr>
+                                                    <!-- 4th Event Description -->
+                                                    <tr>
+                                                        <td>
+                                                            <p  style="margin: 10px 0px; padding-left: 4%;">
+                                                            <span class="article-text" style="font-family: Helvetica; font-size: 14px;">
+                                                                Award-winning video game <i>Journey</i> comes to life on the Hammer Stage! This is the latest addition to the ArtTech series! Fifth House Ensemble performs this game’s Grammy-nominated soundtrack as audience members play the game on stage. Together, let’s explore lush environments and remnants of a civilization lost to the sands of time!  
+                                                             </span>
+                                                            <a class="article-anchor" style="font-family: Helvetica; font-size: 14px;" href="http://events.ha.sjsu.edu/hammertheatre/events/journey-live-video-game/" target="_blank" title="Journey Video Game Live Event Page">Read more.</a>
+                                                            </p>
+                                                            <!-- 3rd Event buy tickets -->
+                                                            <div style="margin-bottom: 25px; display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px; margin-left: 4%;">
+                                                                <a id="buy-ticket-button" href="https://web.ovationtix.com/trs/pr/988040" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ticket Link For Journey">Buy tickets</a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+
+                                        <!-- Partner Events and In The NEWS -->
+                                        <div class="partner-events">
+                                            <table>
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="padding-left: 4%;">
+                                                            <hr>
+
+                                                            <p class="img-frame-title" style="font-size: 18px; font-family: Helvetica; text-decoration:none; padding:0; margin-bottom:4px; margin-top: 10px">
+                                                            In The News
+                                                            </p>
+
+                                                            <table>
+                                                                <tr>
+                                                                    <td>
+                                                                        <a class="article-anchor" style="margin-top: 10px; font-family: Helvetica; font-size: 14px;" href="http://www.metroactive.com/features/columns/San-Jose-Literary-Scene.html" target="_blank" title="Friday Nights link">
+                                                                <img src="https://mlsvc01-prod.s3.amazonaws.com/eedc6441701/cc018183-7ae4-4241-8770-50311f5e2521.png?ver=1520627355000" alt="Friday Nights image" align="left"> 
+                                                                        </a>
+                                                                    </td>
+                                                                    <td>
+                                                                        <span class="article-title" style="font-family: Helvetica; font-size: 14px;">
+                                                                        Friends, we are proud to announce that the Hammer will officially be a part of South First Friday, a self- guided evening artwalk. 
+                                                                        </span>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <span class="article-title" style="font-family: Helvetica; font-size: 14px;">
+                                                               Every first Friday of the month, this event showcases local artists and their contributions to Bay Area culture! We will partner with First Friday to feature student talent from live music to glass blowing with the Hammer Theatre Night Market! 
+                                                            </span>
+                                                           
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </td>
+
+                                    <!-- This part is for the Righthand side -->
+
+                                    <td id="right-col" width="40%" valign="top" style="padding-left: 15px; padding-right: 0px;">
+                                        <div>
+                                            <table id="event-list-table" width="100%" style="font-family: Helvetica; font-size: 14px; padding: 0;">
+                                                <tbody style="padding-right: 0px;">
+
+                                                    <!-- First Event-->
+                                                    <tr>
+                                                        <!-- Event Type Category image -->
+                                                        <td>
+                                                            <img width="100%" src="https://multimedia.getresponse.com/getresponse-Siog/photos/580296202.png?_ga=2.70671385.887069144.1501529007-1047026546.1498158113" alt="Lights &amp; Actions">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <!-- Event Description -->
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Yerma
+                                                                <br>
+                                                                National Theatre Live
+                                                            </span>
+                                                            <br>
+                                                            Mar 21 (Wed) @ 7pm
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <!-- Event Link -->
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/yerma-billie-piper-national-theatre-live/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Yerma page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <!-- End EVENT -->
+
+
+                                                    <tr>
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Robert Dubac's The Book of Moron
+                                                                <br>
+                                                                Off-Broadway Production
+                                                            </span>
+                                                            <br>
+                                                            Mar 29&ndash;31 (Thur&ndash;Sat) @ 8pm <br>
+                                                            Mar 31 (Sat) @ 4pm
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/book-of-moron/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Book of Moron page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding-top: 25px;">
+                                                            <img width="100%" src="https://multimedia.getresponse.com/getresponse-Siog/photos/580625802.png?_ga=2.114853063.1705713817.1506710458-1295914473.1506105180" alt="Hammer Speaks">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Steve Winter: On the Trail of Big Cats <br> National Geographic Live
+                                                            </span>
+                                                            <br>
+                                                            Mar 14 (Wed) @ 7pm
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/trail-big-cats/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Trail of Big Cats page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Brian Skerry: Ocean Soul <br> National Geographic Live
+                                                            </span>
+                                                            <br>
+                                                            Mar 28 (Wed) @ 7pm
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/ocean-wild/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ocean Soul page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding-top: 25px;">
+                                                            <img width="100%" src="https://multimedia.getresponse.com/getresponse-Siog/photos/580625202.png?_ga=2.114853063.1705713817.1506710458-1295914473.1506105180" alt="SJSU @ Hammer">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Ecstatic Waters <br> SJSU Wind Ensemble
+                                                            </span>
+                                                            <br>
+                                                            Mar 20 (Tue) @ 7pm
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/ecstatic-waters-sjsu-wind-ensemble/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Ecstatic Waters page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="padding-top: 25px;">
+                                                            <img width="100%" src="https://multimedia.getresponse.com/getresponse-Siog/photos/580296102.png?_ga=2.114411591.1705713817.1506710458-1295914473.1506105180" alt="Also @ Hammer">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Cinequest <br> Annual Film Festival
+                                                            </span>
+                                                            <br>
+                                                            Mar 1&ndash;11 (Wed&ndash;Sun) 
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/cinequest-annual-film-festival/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Cinequest page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>
+                                                            <span style="font-weight: bold">
+                                                                Noche Folklorica <br> Grupo Folkorico Luna y Sol de SJSU <br> 15th Anniversary Celebration
+                                                            </span>
+                                                            <br>
+                                                            Mar 17 (Sat) @ 7pm
+                                                            </p>
+                                                            <div style="display: inline-block; padding: 5px 10px; background-color: rgb(179, 183, 177); border-radius: 7px;">
+                                                                <a href="http://events.ha.sjsu.edu/hammertheatre/events/grupo-folkorico-luna-y-sol-de-sjsu-15th-anniversary-celebration/" style="font-family: Arial, Helvetica Neue, Helvetica, sans-serif; color: rgb(255, 255, 255); font-size: 14px; text-decoration: none; font-weight: bold;" target="_blank" title="Grupo page">
+                                                                    Learn more
+                                                                </a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <hr style="margin-left: 4%;">
+                                                        </td>
+                                                    </tr>
+                                                    <tr id="footer-social-table" style="
+                                                    background: #DEDFE1;
+                                                    /* For browsers that do not support gradients */
+                                                    background: -webkit-linear-gradient(#DEDFE1, white);
+                                                    /* For Safari 5.1 to 6.0 */
+                                                    background: -o-linear-gradient(#DEDFE1, white);
+                                                    /* For Opera 11.1 to 12.0 */
+                                                    background: -moz-linear-gradient(#DEDFE1, white);
+                                                    /* For Firefox 3.6 to 15 */
+                                                    background: linear-gradient(#DEDFE1, white);
+                                                    /* Standard syntax (must be last) */
+                                                    ">
+                                                        <td>
+                                                            <p style="margin: 4%;">
+                                                            <b>What Is The Hammer?</b><br>
+                                                            The Hammer Theatre Center is a distinctive, high-quality performance venue in the heart of downtown San José. Operated by San José State University, the theatre serves the university and the community through artistically and educationally excellent programming expressive of the unique characteristics and diverse cultures that comprise Silicon Valley.
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tbody id="footer-social-table" style="background: #DEDFE1;">
+                    <tr>
+                        <td>
+                            <p style="font-size: 20px; font-family: Helvetica; padding-top: 3px; padding-left: 20px; margin-bottom: 0;">Connect With Hammer</p>
+                        </td>
+                    </tr>
+                    <tr id="footer-social-table" style="
+                    background: #DEDFE1;
+                    /* For browsers that do not support gradients */
+                    background: -webkit-linear-gradient(#DEDFE1, white, white);
+                    /* For Safari 5.1 to 6.0 */
+                    background: -o-linear-gradient(#DEDFE1, white, white);
+                    /* For Opera 11.1 to 12.0 */
+                    background: -moz-linear-gradient(#DEDFE1, white, white);
+                    /* For Firefox 3.6 to 15 */
+                    background: linear-gradient(#DEDFE1, white, white);
+                    /* Standard syntax (must be last) */
+                    ">
+                        <td>
+                            <table style="margin-left: 2%;">
+                                <tbody>
+                                    <tr>
+                                        <td style="background-attachment:fixed;">
+                                            <a href="https://www.facebook.com/HammerTheatreCenter/" target="_blank">
+                                                <img width="100%" createnew="true" height="60px" width="60px" src="https://multimedia.getresponse.com/getresponse-Siog/photos/603879302.png?_ga=2.143274928.465779761.1507752854-1137881523.1505944160" alt="Hammer Theater Facebook Page">
+                                            </a>
+                                        </td>
+                                        <td style="background-attachment:fixed;">
+                                            <a href="https://twitter.com/hammer_sjsu?lang=en" target="_blank">
+                                                <img width="100%" createnew="true" height="60px" width="60px" src="https://multimedia.getresponse.com/getresponse-Siog/photos/603879502.png?_ga=2.89977758.465779761.1507752854-1137881523.1505944160">
+                                            </a>
+                                        </td>
+                                        <td style="background-attachment:fixed;">
+                                            <a href="https://www.linkedin.com/company-beta/15090060/" target="_blank">
+                                                <img width="100%" createnew="true" height="60px" width="60px" src="https://multimedia.getresponse.com/getresponse-Siog/photos/603879802.png?_ga=2.114562050.465779761.1507752854-1137881523.1505944160">
+                                            </a>
+                                        </td>
+                                        <td style="background-attachment:fixed;">
+                                            <a href="https://www.instagram.com/hammertheatrecenter/" target="_blank">
+                                                <img createnew="true" height="50px" width="50px" src="https://multimedia.getresponse.com/getresponse-Siog/photos/612296302.png?_ga=2.41431010.1520382119.1509998279-1137881523.1505944160">
+                                            </a>
+                                        </td>
+                                        <td style="font-family: Helvetica; font-size: 14px;">
+                                            <p>
+                                            Hammer Theatre
+                                            <br>
+                                            101 Paseo de San Antonio
+                                            <br>
+                                            San José, CA 95113
+                                            </p>
+                                        </td>
+                                        <td style="font-family: Helvetica; font-size: 14px;">
+                                            <p>
+                                            Hammer Box Office:
+                                            <br>
+                                            Open weekdays 12pm-5pm
+                                            <br>
+                                            + 90 minutes before performances
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </tbody>
+        </table>
+    </body>
+</html>
