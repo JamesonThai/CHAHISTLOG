@@ -4,18 +4,20 @@
 <title> Applause Newsletter HTML Generator Requests</title>
 
 </head>
-<body>
+<body id = "mainBody">
 	<div id = "div1"> 
 		<h1 id = "header1"> Applause Newsletter HTML Generator Requests </h1>
 	</div>
-	<input type="button" value = "Start Changes" onclick = 'test()'> 
-	<form id = "NumberFields">
-		<h2> Number of Events</h1>
-		<input id = 'numEvents' pattern="[0-9]" min='1' max='5' type = "number"><br>
-		<h2> Number of Subbrand Events</h1>
-		<input id = 'numSub' pattern="[0-9]" min='1' max = '20' type = "number"> <br><br>
-		<input type='submit' value='Start Working on Applause' onclick="grabItems(); return false;">
-	</form>
+	<div id = "Starting">
+		<input type="button" value = "Start Changes" onclick = 'test()'> 
+		<form id = "NumberFields">
+			<h2> Number of Events</h2>
+			<input id = 'numEvents' pattern="[0-9]" min='1' max='5' type = "number"><br>
+			<h2> Number of Subbrand Events</h2>
+			<input id = 'numSub' pattern="[0-9]" min='1' max = '20' type = "number"> <br><br>
+			<input type='submit' value='Start Working on Applause' onclick="grabItems(); return false;">
+		</form>
+	</div>
 	<div id = "MainEventOutput">
 	</div>
 	<div id = "SubBrandOutput">
