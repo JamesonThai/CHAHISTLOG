@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> HTML Generator Requests</title>
-<script src = "main.js"> </script>
+<title> Applause Newsletter HTML Generator Requests</title>
+
 </head>
 <body>
 	<div id = "div1"> 
-		<h1 id = "header1"> Thing subject to Change </h1>
+		<h1 id = "header1"> Applause Newsletter HTML Generator Requests </h1>
 	</div>
 	<input type="button" value = "Start Changes" onclick = 'test()'> 
+	<form id = "NumberFields">
+		<h2> Number of Events</h1>
+		<input id = 'numEvents' pattern="[0-9]" min='1' max='5' type = "number"><br>
+		<h2> Number of Subbrand Events</h1>
+		<input id = 'numSub' pattern="[0-9]" min='1' max = '20' type = "number"> <br><br>
+		<input type='submit' value='Start Working on Applause' onclick="grabItems(); return false;">
+	</form>
+	<div id = "MainEventOutput">
+	</div>
+	<div id = "SubBrandOutput">
+	</div>
+	<div id = "EditEvent">
+	</div>
 </body>
+	<script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src = "main.js"> </script>
 </html>
