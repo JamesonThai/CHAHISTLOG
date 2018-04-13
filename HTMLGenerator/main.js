@@ -1,4 +1,8 @@
+const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
 
+const d = new Date();
 
 function test(){
 	var para = document.createElement("h1");
@@ -171,7 +175,6 @@ function appendSubBrandEvents(x){
 		eventForm.appendChild(eventDates);
 		eventForm.appendChild(eventDatesInput);
 
-
 		// Event Ticket
 		var eventTicket = document.createElement("h2");
 		eventTicket.appendChild(document.createTextNode("eventLink: "));
@@ -217,11 +220,38 @@ function editEvent(){
 	
 }
 
+// Convert Date 
+function conversionOfDate(date){
+	// window.alert(Object.prototype.toString.call(date));
+	// console.log(Object.prototype.toString.call(date) === '[object Date]');
+	// if (Object.prototype.toString.call(date) === '[object Date]'){
+		var convertedDate;
+		// convertedDate = d.getMonth();
+		// convertedDate
+		
+		console.log(monthNames[d.getMonth()]);
+	// 	document.write("The current month is " + monthNames[d.getMonth()]);
+		convertedDate = date;
+		return convertedDate
+	// }
+	// else{
+	// 	window.alert("invalid date input for Header");
+	// }
+}
+
 function grabItems(){
 	var MainEventsCount = document.getElementById('numEvents').value;
 	var SubEventsCount = document.getElementById('numSub').value;
-	// Console.log(MainEventsCount);
+	var NewsletterDate = conversionOfDate(document.getElementById('newsletterDate').value);
+	// localStorage.setItem('NewsletterDate', JSON.stringify(NewsletterDate));
+	
+	var parent = document.getElementById("HeaderInformation");
+	var node = document.createElement("h1");
+	node.appendChild(document.createTextNode(NewsletterDate));
+	parent.appendChild(node);
+
 	if (MainEventsCount != 0 && SubEventsCount != 0){
+		
 		appendMainEvent(MainEventsCount);
 		appendSubBrandEvents(SubEventsCount);
 		clearOldFields();
@@ -234,4 +264,9 @@ function grabItems(){
 function clearOldFields(){
 	var parent = document.getElementById("mainBody");
 	parent.removeChild(document.getElementById("Starting"));
+}
+
+
+function renderInformation(){
+
 }
