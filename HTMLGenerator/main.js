@@ -26,9 +26,12 @@ function appendMainEvent(x){
 		var MainEvent = document.createElement("div");
 		MainEvent.setAttribute("id", elementName);
 
+		// Event ID
+		var eventID = elementName;
+
 		// Event Title Creation
 		var eventTitle = document.createElement("h1");
-		eventTitle.setAttribute("id", elementName + "Title");
+		eventTitle.setAttribute("id", eventID+ "Title");
 		var node = document.createTextNode("MainEvent " + holder);
 		eventTitle.appendChild(node);
 		MainEvent.appendChild(eventTitle);
@@ -82,8 +85,9 @@ function appendMainEvent(x){
 		// Clear button
 		var clearButton = document.createElement("input");
 		clearButton.setAttribute("type", "button");
+		clearButton.setAttribute("id", eventID);
 		clearButton.setAttribute("value", "clearButton");
-		clearButton.setAttribute("onclick", "clearEvent(); return false;");
+		clearButton.setAttribute("onclick", "clearEvent(this.id); return false;");
 		MainEvent.appendChild(clearButton);
 		MainEvent.appendChild(newLine);
 
@@ -110,9 +114,11 @@ function appendSubBrandEvents(x){
 		var SubBrandEvent = document.createElement("div");
 		SubBrandEvent.setAttribute("id", elementName);
 
+		// EventID
+		var eventID = elementName;
 		// Event Title Creation
 		var eventTitle = document.createElement("h1");
-		eventTitle.setAttribute("id", elementName + "Title");
+		eventTitle.setAttribute("id", eventID + "Title");
 		var node = document.createTextNode("SubBrandEvent " + holder);
 		eventTitle.appendChild(node);
 		SubBrandEvent.appendChild(eventTitle);
@@ -188,8 +194,9 @@ function appendSubBrandEvents(x){
 		// Clear button
 		var clearButton = document.createElement("input");
 		clearButton.setAttribute("type", "button");
+		clearButton.setAttribute("id", eventID);
 		clearButton.setAttribute("value", "clearButton");
-		clearButton.setAttribute("onclick", "clearEvent(); return false;");
+		clearButton.setAttribute("onclick", "clearEvent(this.id)");
 		SubBrandEvent.appendChild(clearButton);
 		SubBrandEvent.appendChild(newLine);
 		SubBrandEvent.appendChild(newLine);
@@ -204,11 +211,20 @@ function appendSubBrandEvents(x){
 }
 
 // clear event need to recognize which id tag to remove
-function clearEvent(){
-	window.alert("Clearing Main Event Button does not currently work, try again later");
+function clearEvent(event){
+	// window.alert("Clearing Main Event Button does not currently work, try again later");
+	if (even)
+	var eventID = event;
+	// window.alert(eventID);
+	var child = document.getElementById(eventID);
+	// var parent = document.getElementById(toRemove.parentElement.id);
+	// parent.remove(toRemove);
+	// console.log(toRemove);
+	// console.log(parent);
+	child.parentNode.removeChild(child);
 }
 
-function createMainEvent(){
+function createMainEvent( event){
 	window.alert("Making New Event Button does not currently work try again later");
 }
 function createSubEvent(){
@@ -223,20 +239,9 @@ function editEvent(){
 // Convert Date 
 function conversionOfDate(date){
 	// window.alert(Object.prototype.toString.call(date));
-	// console.log(Object.prototype.toString.call(date) === '[object Date]');
-	// if (Object.prototype.toString.call(date) === '[object Date]'){
-		var convertedDate;
-		// convertedDate = d.getMonth();
-		// convertedDate
-		
-		console.log(monthNames[d.getMonth()]);
-	// 	document.write("The current month is " + monthNames[d.getMonth()]);
-		convertedDate = date;
-		return convertedDate
-	// }
-	// else{
-	// 	window.alert("invalid date input for Header");
-	// }
+	var temp = new Date(date);
+	var convertedDate = monthNames[temp.getMonth()];
+	return convertedDate
 }
 
 function grabItems(){
