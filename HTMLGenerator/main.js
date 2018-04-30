@@ -244,6 +244,7 @@ function conversionOfDate(date){
 	return convertedDate
 }
 
+// Grab the Information for Main Events and Sub Brand events
 function grabItems(){
 	var MainEventsCount = document.getElementById('numEvents').value;
 	var SubEventsCount = document.getElementById('numSub').value;
@@ -256,10 +257,17 @@ function grabItems(){
 	parent.appendChild(node);
 
 	if (MainEventsCount != 0 && SubEventsCount != 0){
-		
 		appendMainEvent(MainEventsCount);
 		appendSubBrandEvents(SubEventsCount);
 		clearOldFields();
+
+		// Starting Go to Create the Applause Generator.js
+		var parent = document.getElementById("SubmitItems");
+		var child = document.createElement("input");
+		child.setAttribute("type", "button");
+		child.setAttribute("value", "Make Applause");
+		child.setAttribute("onclick", 'createApplause(); return false;');
+		parent.appendChild(child);
 	}
 	else{
 		window.alert("You have an empty or 0 value for SubBrand Events or Events");
