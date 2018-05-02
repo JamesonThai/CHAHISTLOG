@@ -59,7 +59,8 @@ function appendMainEvent(x){
 		var eventDates = document.createElement("h2");
 		eventDates.appendChild(document.createTextNode("Dates: "));
 		var eventDatesInput = document.createElement("input");
-		eventDatesInput.setAttribute("placeholder", "place ,'s between each date if multiple");
+		eventDatesInput.setAttribute("type", "date");
+		// eventDatesInput.setAttribute("placeholder", "place ,'s between each date if multiple");
 		eventForm.appendChild(eventDates);
 		eventForm.appendChild(eventDatesInput);
 
@@ -215,12 +216,7 @@ function clearEvent(event){
 	// window.alert("Clearing Main Event Button does not currently work, try again later");
 	if (even)
 	var eventID = event;
-	// window.alert(eventID);
 	var child = document.getElementById(eventID);
-	// var parent = document.getElementById(toRemove.parentElement.id);
-	// parent.remove(toRemove);
-	// console.log(toRemove);
-	// console.log(parent);
 	child.parentNode.removeChild(child);
 }
 
@@ -283,3 +279,17 @@ function clearOldFields(){
 function renderInformation(){
 
 }
+
+module.exports = class ApplauseGen {
+	constructor(width){
+		this.width = width;
+	}
+	area(){
+		return this.width ** 2;
+	}
+}
+
+
+
+
+
