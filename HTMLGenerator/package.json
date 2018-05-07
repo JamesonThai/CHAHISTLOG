@@ -1,0 +1,11 @@
+{
+  "name": "htmlgenerator",
+  "version": "1.0.0",
+  "description": "HTMLGenerator For Applause",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jameson Thai",
+  "license": "ISC"
+}
