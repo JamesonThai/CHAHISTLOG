@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Applause Newsletter HTML Generator Requests Tester</title>
+</head>
+<body id = "mainBody">
+	<div id = "div1"> 
+		<h1 id = "header1"> Applause Newsletter HTML Generator Requests Test</h1>
+
+	</div>
+	<div id = "Starting">
+		<form id = "NumberFields" action="/about">
+			<h2> Applause Newsletter Date </h2>
+			<input id = 'newsletterDate' type="date"> <br>
+			<h2> Number of Events</h2>
+			<input id = 'numEvents' pattern="[0-9]" min='1' max='5' type = "number"><br>
+			<h2> Number of Subbrand Events</h2>
+			<input id = 'numSub' pattern="[0-9]" min='1' max = '20' type = "number"> <br><br>
+			<input type='submit' value='Start Working on Applause' onclick="grabItems(); return false;">
+		</form>
+	</div>
+	<div id = "SubmitItems">
+		<div id = "HeaderInformation"></div>
+		<div id = "MainEventOutput"></div>
+		<div id = "SubBrandOutput"></div>
+		<div id = "EditEvent"></div>
+	</div>
+	<br>
+	<br>
+	<div id = "FinalApplauseTemplate"></div>
+	<script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src = "mainApplauseGen.js"> </script>
+<script src = "ApplauseGenerator.js"> </script>
+</body>
+</html>
