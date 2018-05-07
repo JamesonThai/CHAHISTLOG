@@ -27,7 +27,7 @@ node app.js
 
 ## Authors
 
-* **Jameson K Thai** - *Initial work* - [JTh](https://github.com/JamesonThai)
+* **Jameson K Thai** - *Current work* - [JTh](https://github.com/JamesonThai)
 
 ## License
 
